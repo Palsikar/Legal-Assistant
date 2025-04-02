@@ -8,7 +8,7 @@ export const config = {
 }
 
 // Hardcoded API key - not recommended for production but useful for troubleshooting
-const GOOGLE_API_KEY = "AIzaSyDHZOiLlnHbgq-gLjgMmGDRsXCQEQdXtAg"
+const GOOGLE_API_KEY = "YOUR API KEY HERE"
 
 export async function POST(req: Request) {
   try {
