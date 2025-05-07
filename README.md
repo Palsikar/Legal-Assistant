@@ -10,7 +10,7 @@
  - 📜 **Case Law Identification**: Recognizes references to past cases.
  - 🌐 **Web-Based Interface**: User-friendly HTML frontend.
  - ⚡ **Machine Learning Backend**: Python-based processing.
- - Demo : https://v0-legal-assistance-app.vercel.app
+ - [Demo](https://v0-legal-assistance-app.vercel.app)
  
  ## 🛠️ Tech Stack
  - **Frontend**: HTML, CSS, JavaScript
