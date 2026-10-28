@@ -11,6 +11,16 @@
  - 🌐 **Web-Based Interface**: User-friendly HTML frontend.
  - ⚡ **Machine Learning Backend**: Python-based processing.
  - [Demo](https://v0-legal-assistance-app.vercel.app)
+  
+ ## Project Screenshots
+
+- Interactive Webpage   <img width="1772" height="686" alt="image" src="https://github.com/user-attachments/assets/09e0a10b-5ea3-44be-b30a-3c919b357ae3" />
+
+- Document Upload  <img width="1737" height="880" alt="image" src="https://github.com/user-attachments/assets/4c37b4a1-bdc2-4353-9738-ac721bf63afc" />
+
+- Document Analysis  <img width="967" height="772" alt="image" src="https://github.com/user-attachments/assets/15884460-d915-4b4d-8bf2-d8bbb555fdbf" /><img width="1017" height="616" alt="image" src="https://github.com/user-attachments/assets/aae43519-33b1-4c6b-b646-5b17364aaf16" />
+
+- AI based Guidance  <img width="1017" height="792" alt="image" src="https://github.com/user-attachments/assets/e8d1d2a6-36d1-4726-a330-fd0448a5a112" />
  
  ## 🛠️ Tech Stack
  - **Frontend**: HTML, CSS, JavaScript
